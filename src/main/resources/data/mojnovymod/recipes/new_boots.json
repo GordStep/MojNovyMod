@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "combat",
+  "key": {
+    "S": {
+      "item": "minecraft:oak_log"
+    }
+  },
+  "pattern": [
+    "S S",
+    "S S"
+  ],
+  "result": {
+    "count": 1,
+    "item": "mojnovymod:new_boots"
+  }
+}

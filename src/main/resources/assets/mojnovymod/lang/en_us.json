@@ -1,0 +1,15 @@
+{
+  "item.mojnovymod.new_item": "New Item",
+  "item.mojnovymod.another_item": "Another Item",
+  "item.mojnovymod.magic_item": "Magic Item",
+  "item.mojnovymod.new_helmet": "Oak Helmet",
+  "item.mojnovymod.new_chestplate": "Oak Chestplate",
+  "item.mojnovymod.new_leggings": "Oak Leggings",
+  "item.mojnovymod.new_boots": "Oak Boots",
+  "block.mojnovymod.new_block": "New Block",
+  "block.mojnovymod.another_block": "Another Block",
+  "block.mojnovymod.magic_block": "Magic Block",
+  "itemGroup.mojnovymod.new_group": "New Group",
+  "itemGroup.mojnovymod.another_group": "Another Group"
+
+}

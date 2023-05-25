@@ -1,0 +1,14 @@
+{
+  "item.mojnovymod.new_item": "Новый Предмет",
+  "item.mojnovymod.another_item": "Другой Предмет",
+  "item.mojnovymod.magic_item": "Магический Предмет",
+  "item.mojnovymod.new_helmet": "Дубовый Шлем",
+  "item.mojnovymod.new_chestplate": "Дубовый Нагрудник",
+  "item.mojnovymod.new_leggings": "Дубовые Поножи",
+  "item.mojnovymod.new_boots": "Дубовые Ботинки",
+  "block.mojnovymod.new_block": "Новый Блок",
+  "block.mojnovymod.another_block": "Другой Блок",
+  "block.mojnovymod.magic_block": "Магический Блок",
+  "itemGroup.mojnovymod.new_group": "Новая Группа",
+  "itemGroup.mojnovymod.another_group": "Другая Группа"
+}
